@@ -92,3 +92,140 @@ Estável e crescente, especialmente em finanças e varejo.
 - Interesses técnicos: SQL Server, Python, análise de mercado financeiro, robôs de investimento, Power BI, Excel  
 
 ---
+
+# 🚀 Roadmap de Transição para Cientista de Dados
+
+Este repositório documenta minha jornada de **120 dias** para transição de carreira em **Ciência de Dados**, incluindo plano de estudos, projetos de portfólio e trilha de cursos.
+
+---
+
+## 🧩 Visão do Dia a Dia
+
+Como é o trabalho de um(a) Cientista de Dados:
+- Coletar e limpar dados de diferentes fontes
+- Explorar e analisar dados para identificar padrões
+- Criar modelos estatísticos e de machine learning
+- Comunicar insights por meio de dashboards e relatórios
+- Documentar e versionar projetos em GitHub para colaboração
+
+---
+
+## 🧠 Mapa de Skills
+
+**Core Skills (essenciais):**
+- Python (pandas, numpy, scikit-learn)
+- SQL (consultas e manipulação de dados)
+- Estatística aplicada
+- Visualização de dados (Power BI, matplotlib, seaborn)
+- Git/GitHub
+
+**Nice-to-Have (complementares):**
+- Mercado financeiro e investimentos
+- Automação e criação de robôs de análise
+
+**Ferramentas e Tecnologias:**
+- SQL Server
+- Python
+- Power BI / Excel
+- GitHub
+
+---
+
+## 📅 Roadmap de 120 Dias
+
+### Mês 1 - Fundamentos
+- Python básico + pandas/numpy
+- SQL básico (SELECT, JOIN, GROUP BY)
+- Estatística fundamental
+- GitHub: criar conta e aprender comandos básicos
+
+### Mês 2 - Prática
+- SQL avançado + consultas em SQL Server
+- Projetos com datasets públicos (Kaggle, UCI)
+- Machine Learning introdutório (regressão, classificação)
+- Publicar notebooks no GitHub
+
+### Mês 3 - Portfólio
+- Projeto: análise de mercado financeiro com Python + SQL
+- Dashboards interativos em Power BI
+- Subir projeto completo no GitHub com README detalhado
+- Robô simples de investimento (backtest)
+
+### Mês 4 - Consolidação
+- Revisão de estatística e ML
+- Portfólio consolidado com 2-3 projetos principais
+- Preparação para entrevistas técnicas e comportamentais
+- LinkedIn + GitHub como vitrine
+
+---
+
+## 🚀 Projeto de Portfólio
+
+**Projeto:** Robô de Análise de Mercado Financeiro
+
+**Entregáveis:**
+- Script Python para coleta e limpeza de dados
+- Banco SQL com histórico de preços
+- Dashboard em Power BI
+- Repositório GitHub com README e instruções
+
+---
+
+## 💬 Roteiro de Entrevistas
+
+1. **Qual sua experiência com dados?**  
+   ➡️ Responder destacando Excel/Power BI, projetos em Python/SQL e portfólio no GitHub.
+
+2. **Como você lidaria com dados faltantes?**  
+   ➡️ Técnicas de imputação, remoção ou análise de impacto.
+
+3. **Explique um projeto que você fez.**  
+   ➡️ Detalhar o robô de análise, objetivos, ferramentas e resultados.
+
+4. **Qual a diferença entre regressão e classificação?**  
+   ➡️ Regressão prevê valores contínuos, classificação prevê categorias.
+
+5. **Como você comunica insights para pessoas não técnicas?**  
+   ➡️ Dashboards, storytelling e foco em impacto no negócio.
+
+---
+
+## 🎓 Trilha de Cursos
+
+**Excel (iniciante):**
+- [Excel Básico – Fundação Bradesco](https://www.ev.org.br/cursos/microsoft-excel-2016-basico)
+- [Introdução ao Excel – ENAP](https://www.escolavirtual.gov.br/curso/459)
+
+**Power BI (iniciante):**
+- [Fundamentos Power BI – Fundação Bradesco](https://www.ev.org.br/trilhas-de-conhecimento/fundamentos-do-power-bi)
+- [Curso Básico Power BI – Hashtag Treinamentos (YouTube)](https://www.youtube.com/watch?v=...)
+
+**SQL Server (iniciante):**
+- [Microsoft Learn – Fundamentos SQL](https://learn.microsoft.com/pt-br/sql/sql-server/)
+- [Curso Completo SQL Server – Boson Treinamentos (YouTube)](https://www.youtube.com/watch?v=KOhd3R5kLks)
+
+---
+
+## 📊 Planilha de Trilha (16 Semanas)
+
+| Semana | Foco | Curso | Entregável |
+|--------|------|-------|------------|
+| 1 | Excel fundamentos | EV Bradesco | Planilha de vendas |
+| 3 | Power BI fundamentos | Hashtag Treinamentos (YouTube) | Relatório simples |
+| 6 | SQL Server básico | Boson Treinamentos (YouTube) | Scripts SQL no GitHub |
+| 11 | Projeto finanças | Kaggle/DIO datasets | Pipeline ingestão |
+| 14 | Robô simples | Python + CSV | Notebook + relatório |
+
+---
+
+## 🌐 Próximos Passos
+1. Criar repositório no GitHub chamado `roadmap-cientista-dados`  
+2. Adicionar este README.md  
+3. Criar pastas: `/docs`, `/data`, `/src`, `/notebooks`  
+4. Subir projetos semanais conforme cronograma  
+5. Atualizar README com links para cada projeto  
+
+---
+
+✨ **Dica:** Use o GitHub Pages para publicar relatórios e tornar seu portfólio acessível online.
+
